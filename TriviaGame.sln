@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriviaGame", "TriviaGame.vcxproj", "{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Debug|x64.ActiveCfg = Debug|x64
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Debug|x64.Build.0 = Debug|x64
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Debug|x86.Build.0 = Debug|Win32
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Release|x64.ActiveCfg = Release|x64
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Release|x64.Build.0 = Release|x64
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Release|x86.ActiveCfg = Release|Win32
+		{717CA4D1-3AB1-44A2-BD99-6F9931B51B5E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {255F3CE2-154D-4103-BB6F-C4542479293A}
+	EndGlobalSection
+EndGlobal
